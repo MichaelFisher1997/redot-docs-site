@@ -53,8 +53,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/logo.svg',
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,
@@ -63,7 +62,7 @@ const config: Config = {
     navbar: {
       title: 'Redot Engine Docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Redot Engine Logo',
         src: 'img/logo.svg',
       },
       items: [
