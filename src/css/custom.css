@@ -167,9 +167,9 @@ a {
 }
 
 .alert--warning {
-  --ifm-alert-background-color: rgba(255, 107, 107, 0.1);
-  --ifm-alert-color: #ff6b6b;
-  border-left-color: #ff6b6b;
+  --ifm-alert-background-color: rgba(240, 173, 78, 0.1);
+  --ifm-alert-color: #f0ad4e;
+  border-left-color: #f0ad4e;
 }
 
 .alert--danger {

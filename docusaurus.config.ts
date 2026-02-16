@@ -104,7 +104,7 @@ const config: Config = {
           items: [
             {
               label: 'Blog',
-              to: 'https://blog.redotengine.org',
+              href: 'https://blog.redotengine.org',
             },
             {
               label: 'GitHub',
