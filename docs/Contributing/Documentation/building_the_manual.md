@@ -16,8 +16,7 @@ Before you get started, make sure that you have:
 :::note
 
 ``python3 -m pip`` (Unix) or  ``py -m pip`` (Windows) instead of ``pip3``.
-If both approaches fail, `make sure that you have pip3 installed
-<https://pip.pypa.io/en/stable/installation/>`__.
+If both approaches fail, [make sure that you have pip3 installed](https://pip.pypa.io/en/stable/installation/).
 
 :::
 
