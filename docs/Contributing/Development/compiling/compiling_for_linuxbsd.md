@@ -183,12 +183,6 @@ pkg_add \
 
 </TabItem>
 
-</Tabs>
-
-        .. hint::
-
-            For audio support, you can optionally install ``pulseaudio``.
-
 <TabItem value="openbsd" label="OpenBSD">
 
 pkg_add \
@@ -256,6 +250,8 @@ eopkg install -y \
   pulseaudio-devel
 
 </TabItem>
+
+</Tabs>
 
 ## Compiling
 
@@ -636,6 +632,8 @@ sudo dnf install -y \
 
 </TabItem>
 
+</Tabs>
+
 After installing all required packages, use the following command to build Godot:
 
 .. NOTE: Some `builtin_` options aren't used here because they break the build as of January 2023
@@ -661,5 +659,3 @@ binaries you intend to distribute to others, unless you're creating a
 package for a Linux distribution.
 
 :::
-
-</Tabs>
